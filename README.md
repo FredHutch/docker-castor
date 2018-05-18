@@ -1,6 +1,8 @@
 # docker-castor
 Docker image running castor
 
+[![Docker Repository on Quay](https://quay.io/repository/fhcrc-microbiome/castor/status "Docker Repository on Quay")](https://quay.io/repository/fhcrc-microbiome/castor)
+
 Castor is a set of utilities for dealing with large phylogenetic
 treest, and documentation can be found 
 [here](https://cran.r-project.org/web/packages/castor/castor.pdf).
